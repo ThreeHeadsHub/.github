@@ -1,17 +1,22 @@
-# 🚀 ThreeHeadsHub
+<p align="center">
+  <img src="./logo.png" alt="ThreeHeadsHub Logo" width="180" />
+</p>
 
-**ThreeHeadsHub** is a multidisciplinary technology studio delivering end-to-end solutions across  
-**software, hardware, and intelligent systems**.
+<p align="center">
+  Multidisciplinary technology studio delivering end-to-end solutions<br/>
+  across <strong>software, hardware, and intelligent systems</strong>.
+</p>
 
-We design, build, and integrate products that bridge **web, mobile, embedded systems, AI, and electronics** — from idea to production.
-
-🌐 Website: https://www.threeheadshub.com
+<p align="center">
+  🌐 <a href="https://www.threeheadshub.com">www.threeheadshub.com</a>
+</p>
 
 ---
 
 ## 🧠 What We Do
 
-We work across multiple domains to deliver complete and scalable solutions:
+We design, build, and integrate products that bridge  
+**web, mobile, embedded systems, AI, and electronics** — from idea to production.
 
 ### 💻 Web Development
 - Modern web applications & dashboards  
@@ -92,7 +97,7 @@ We collaborate with:
 - Hardware & manufacturing partners
 
 📧 Contact: threeheadshub@gmail.com  
-🌐 Website: https://www.threeheadshub.com
+🌐 Website: www.threeheadshub.com
 
 ---
 
